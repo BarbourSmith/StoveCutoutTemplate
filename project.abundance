@@ -1,0 +1,15 @@
+{
+    "atomType": "Molecule",
+    "name": "StoveCutoutTemplate",
+    "x": 0,
+    "y": 0,
+    "uniqueID": "376ec01b-311e-4717-9b57-b84969dc1c09",
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [],
+    "allConnectors": [],
+    "unitsKey": "MM",
+    "fileTypeVersion": 1,
+    "compiledBom": {},
+    "filetypeVersion": 1
+}
